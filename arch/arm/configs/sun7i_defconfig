@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm 3.4.103 Kernel Configuration
+# Linux/arm 3.4.105 Kernel Configuration
 #
 CONFIG_ARM=y
 CONFIG_SYS_SUPPORTS_APM_EMULATION=y
@@ -3826,7 +3826,7 @@ CONFIG_XFS_FS=y
 # CONFIG_GFS2_FS is not set
 # CONFIG_OCFS2_FS is not set
 CONFIG_BTRFS_FS=y
-# CONFIG_BTRFS_FS_POSIX_ACL is not set
+CONFIG_BTRFS_FS_POSIX_ACL=y
 # CONFIG_BTRFS_FS_CHECK_INTEGRITY is not set
 # CONFIG_NILFS2_FS is not set
 CONFIG_FS_POSIX_ACL=y
