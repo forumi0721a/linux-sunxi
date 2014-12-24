@@ -754,6 +754,7 @@ config ARCH_SUN7I
 	select NEED_MACH_IO_H
 	select NEED_MACH_MEMORY_H
 	select ARCH_WANT_OPTIONAL_GPIOLIB
+	select PCI
 	help
 	  This enables support for Allwinner Technology Co., Ltd A20 SoC based systems
 
